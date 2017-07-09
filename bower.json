@@ -1,0 +1,47 @@
+{
+  "name": "elliptical-dynamic-linq",
+  "description": "dynamic linq query provider",
+  "version": "1.0.0",
+  "main": "elliptical-dynamic-linq.html",
+  "authors": [
+    "S. Francis"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "dynamic",
+    "linq",
+    "query"
+
+  ],
+  "moduleType": [],
+  "homepage": "https://github.com/ellipticaljs/dynamic-linq",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".gitignore",
+    ".npmignore",
+    "gulpfile.js",
+    "lib",
+    "docs",
+    "index.js",
+    "umd.js",
+    "package.json",
+    "demo",
+    "build.json",
+    "bundle.json",
+    ".nvmrc",
+    ".eslintrc",
+    "bin",
+    "CHANGELOG.md",
+    "demos",
+    "stylesheets",
+    "_index.scss",
+    "bk"
+  ],
+  "dependencies": {
+    "elliptical-class": "~1.0.9"
+  }
+}
