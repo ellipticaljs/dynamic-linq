@@ -1,7 +1,7 @@
 {
   "name": "elliptical-dynamic-linq",
   "description": "dynamic linq query provider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
